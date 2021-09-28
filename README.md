@@ -1,6 +1,9 @@
 # paystation--tdd-02-hardison-rodriguez
 paystation--tdd-02-hardison-rodriguez created by GitHub Classroom
 
+### NOTE
+Please refer to the commit history to see the portion of work done by myself (Erik) and my partner (Ryan). We did not create the base of this project, it was provided to us by Temple University's College of CIS.
+
 #### UML
 
 ![image](https://user-images.githubusercontent.com/56310133/134098703-362689e7-3087-4219-a6ac-88b377a254c5.png)
